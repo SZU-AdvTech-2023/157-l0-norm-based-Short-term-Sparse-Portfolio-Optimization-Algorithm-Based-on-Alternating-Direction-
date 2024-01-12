@@ -1,0 +1,8 @@
+@article{REPO157,
+    author = "Wang, Hao and Zhang, Wanying and He, Yuxin and Cao, Wenming",
+    journal = "Signal Processing",
+    pages = "108957",
+    title = "{l0-norm based Short-term Sparse Portfolio Optimization Algorithm Based on Alternating Direction Method of Multipliers}",
+    volume = "208",
+    year = "2023"
+}
